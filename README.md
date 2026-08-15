@@ -1,2 +1,2 @@
 # destructing-array
-# a JavaScript feature that unpacks items from arrays into separate variables using squar # brackets
+# a JavaScript feature that unpacks items from arrays into separate variables using square brackets
